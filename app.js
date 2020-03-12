@@ -7,10 +7,7 @@ app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/public'));
 
 app.get('/', (req,res) => {
-
-});
-app.get('/gen1', (req,res) => {
-    res.render('boxDisplay',{script: "/js/gen1.js"});
+  res.render('boxDisplay',{script: "/js/gen1.js"});
 });
 app.get('/gen2', (req,res) => {
   res.render('boxDisplay',{script: "/js/gen2.js"});
