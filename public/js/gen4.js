@@ -3,7 +3,7 @@ let counter = 1;
 let box, boxes = 14;
 
 
-    for (let index = 1; index <= 299; index++) {
+    for (let index = 1; index <= 298; index++) {
 
         if (index == 1 || counter == 30) {
             counter = 1;
