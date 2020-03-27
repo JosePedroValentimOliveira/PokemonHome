@@ -40,7 +40,8 @@ function displayPokemon() {
         let foto = document.createElement('img');
         foto.className = "sprite";
 
-        foto.src = "images/sprites/gen8/0" + i + ".png";
+        foto.src = "images/sprites/gen5
+        /0" + i + ".png";
         box.appendChild(foto);
 
     }

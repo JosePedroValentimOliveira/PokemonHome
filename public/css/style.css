@@ -4,16 +4,18 @@
 
 #dex {
     grid-area: dex;
-    display: block;
+    display: flex;
+    justify-content: center;
+    
     
 }
 
 .box {
     border: white 1px solid;
-    width: 30%;
+    width: 50%;
     display: inline-block;
     background-color: grey;
     
 }
-body{grid-template-columns: 'dex'; align-content: center;}
+body{grid-template-columns: 'dex';}
 

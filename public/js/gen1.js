@@ -8,7 +8,7 @@ let boxNr = document.getElementById('boxNr');
 displayPokemon();
 
 function Terug() {
-    
+
     counter--;
     if (counter < 0) {
         counter = 0;
@@ -31,16 +31,16 @@ knopTerug.addEventListener('click', Terug);
 knopNa.addEventListener('click', Na);
 
 function displayPokemon() {
-    let boxnr = counter +1;
+    let boxnr = counter + 1;
     boxNr.textContent = "Box " + boxnr;
-    
-    for (let i = 1 + (counter  * 30); i <= 30 + (counter * 30); i++) {
+
+    for (let i = 1 + (counter * 30); i <= 30 + (counter * 30); i++) {
 
 
         let foto = document.createElement('img');
         foto.className = "sprite";
 
-        foto.src = "images/sprites/all/0" + i + ".png";
+        foto.src = "images/sprites/gen1/0" + i + ".png";
         box.appendChild(foto);
 
     }
