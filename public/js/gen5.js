@@ -16,16 +16,12 @@ function Terug() {
         box.textContent = "";
         displayPokemon();
     }
-
 };
 
 function Na() {
     box.textContent = "";
     counter++;
     displayPokemon();
-
-
-
 };
 knopTerug.addEventListener('click', Terug);
 knopNa.addEventListener('click', Na);
@@ -40,8 +36,7 @@ function displayPokemon() {
         let foto = document.createElement('img');
         foto.className = "sprite";
 
-        foto.src = "images/sprites/gen5
-        /0" + i + ".png";
+        foto.src = "images/sprites/gen5/0" + i + ".png";
         box.appendChild(foto);
 
     }

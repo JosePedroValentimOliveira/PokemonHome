@@ -23,9 +23,6 @@ function Na() {
     box.textContent = "";
     counter++;
     displayPokemon();
-
-
-
 };
 knopTerug.addEventListener('click', Terug);
 knopNa.addEventListener('click', Na);
