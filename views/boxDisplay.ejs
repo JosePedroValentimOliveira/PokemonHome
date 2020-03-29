@@ -8,13 +8,20 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1 id="boxNr"></h1>
+    
     <label for="regularCheck">Regular Dex</label>
-    <input type="checkbox" name="regular" id="regularCheck" onclick="checkDex()" checked>
+    <input type="radio" name="dex" id="regularCheck" onclick="checkDex()" checked >
     <label for="shinyCheck">Shiny Dex</label>
-    <input type="checkbox" name="shiny" id="shinyCheck" onclick="checkDex()">
+    <input type="radio" name="dex" id="shinyCheck" onclick="checkDex()">
+    <label for="bothCheck">Both Dex</label>
+    <input type="radio" name="dex" id="bothCheck" onclick="checkDex()">
+
+    <label for="genderCheck">Gender differences</label>
+    <input type="checkbox" name="gender" id="genderCheck" onclick="checkDex()">
+    <label for="regionCheck">Region differences</label>
+    <input type="checkbox" name="region" id="regionCheck" onclick="checkDex()">
+
     <div id="dex"></div>
-    <button id="prev">Back</button>
-    <button id="next">Next</button>
+    
 </body>
 </html>

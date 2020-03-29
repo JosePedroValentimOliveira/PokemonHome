@@ -1,21 +1,25 @@
 .sprite {
-    width: 16%;
+    width: 5%;
 }
 
 #dex {
     grid-area: dex;
     display: flex;
     justify-content: center;
+    width:  100%;
     
     
 }
 
 .box {
     border: white 1px solid;
-    width: 50%;
+   
     display: inline-block;
     background-color: grey;
     
 }
 body{grid-template-columns: 'dex';}
+.name{size: 5px;}
+
+
 

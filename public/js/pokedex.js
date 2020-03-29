@@ -2,168 +2,82 @@ let dex = document.getElementById("dex");
 let counter = 0;
 let box = document.createElement('div');
 box.className = "box";
-let prevBtn = document.getElementById('prev');
-let nextBtn = document.getElementById('next');
-let boxNr = document.getElementById('boxNr');
-
-
-// back and next buttons
-function back() {
-    counter--;
-    if (counter < 0) {
-        counter = 0;
-    } else {
-        box.textContent = "";
-        displayPokemon();
-    }
-};
-
-function next() {
-    box.textContent = "";
-    counter++;
-    displayPokemon();
-};
-
-prevBtn.addEventListener('click', back);
-nextBtn.addEventListener('click', next);
-fetch("./pokemon.json").then(function (resp) {
-    return resp.json();
-}).then(function (data) {displayRegular(data);});
-
+checkDex();
 
 // checkboxes
 function checkDex() {
     fetch("./pokemon.json").then(function (resp) {
         return resp.json();
     }).then(function (data) {
-        let regularCheck = document.getElementById('regularCheck').checked;
-        let shinyCheck = document.getElementById('shinyCheck').checked;
-        box.textContent ="";
-        if (regularCheck && shinyCheck) {
-            displayBoth(data);
-        } else if (regularCheck) {
-            displayRegular(data)
-        } else if (shinyCheck) {
-            displayShiny(data)
+        let regularDex = document.getElementById('regularCheck').checked;
+        let shinyDex = document.getElementById('shinyCheck').checked;
+        let bothDex = document.getElementById('bothCheck').checked;
+        let gender = document.getElementById('genderCheck').checked;
+        let region = document.getElementById('regionCheck').checked;
+
+        let type = "regular";
+        if (shinyDex) {
+            type = "shiny";
+        } else if (regularDex) {
+            type = "regular";
         }
-    });}
-
-    // display pokemon
-
-
-    function displayShiny(data) {
-        data.forEach(element => {
-            
-            let foto = document.createElement('img');
-            foto.className = "sprite";
-            foto.src = "images/sprites/shiny/" + element.id + ".png";
-            box.appendChild(foto);
-            if (element.genderForm) {
-                let foto = document.createElement('img');
-                foto.className = "sprite";
-                foto.src = "images/sprites/shiny/" + element.id + "-f.png";
-                box.appendChild(foto);
-            }
-
-            if (element.regionForm) {
-                if (element.region.alola) {
-                    let foto = document.createElement('img');
-                    foto.className = "sprite";
-                    foto.src = "images/sprites/shiny/" + element.id + "-a.png";
-                    box.appendChild(foto);
-                }
-            
-                if (element.region.galar) {
-                    let foto = document.createElement('img');
-                    foto.className = "sprite";
-                    foto.src = "images/sprites/shiny/" + element.id + "-a.png";
-                    box.appendChild(foto);
-                }
-            }
-        });
-        dex.appendChild(box);
-    };
-
-    function displayBoth(data) {
-        let foto = document.createElement('img');
-                foto.className = "sprite";
-                foto.src = "images/sprites/regular/" + element.id + ".png";
-                box.appendChild(foto);
-                let foto = document.createElement('img');
-            foto.className = "sprite";
-            foto.src = "images/sprites/shiny/" + element.id + ".png";
-            box.appendChild(foto);
-
-            if (element.genderForm) {
-                let foto = document.createElement('img');
-                foto.className = "sprite";
-                foto.src = "images/sprites/regular/" + element.id + "-f.png";
-                box.appendChild(foto);
-                let foto = document.createElement('img');
-                foto.className = "sprite";
-                foto.src = "images/sprites/shiny/" + element.id + "-f.png";
-                box.appendChild(foto);
-            }
-    
-        }
-
-            if (element.regionForm) {
-                if (element.region.alola) {
-                    let foto = document.createElement('img');
-                    foto.className = "sprite";
-                    foto.src = "images/sprites/regular/" + element.id + "-a.png";
-                    box.appendChild(foto);
-                    let foto = document.createElement('img');
-                    foto.className = "sprite";
-                    foto.src = "images/sprites/shiny/" + element.id + "-a.png";
-                    box.appendChild(foto);
-                }
-            
-                if (element.region.galar) {
-                    let foto = document.createElement('img');
-                    foto.className = "sprite";
-                    foto.src = "images/sprites/regular/" + element.id + "-a.png";
-                    box.appendChild(foto);
-                    let foto = document.createElement('img');
-                    foto.className = "sprite";
-                    foto.src = "images/sprites/shiny/" + element.id + "-a.png";
-                    box.appendChild(foto);
-                }
-    };
-
-    function displayRegular(data) {
-
-        data.forEach(element => {
-           
-                let foto = document.createElement('img');
-                foto.className = "sprite";
-                foto.src = "images/sprites/regular/" + element.id + ".png";
-                box.appendChild(foto);
-                if (element.genderForm) {
-                    let foto = document.createElement('img');
-                    foto.className = "sprite";
-                    foto.src = "images/sprites/regular/" + element.id + "-f.png";
-                    box.appendChild(foto);
-                }
-
-                if (element.regionForm) {
-                    if (element.region.alola) {
-                        let foto = document.createElement('img');
-                        foto.className = "sprite";
-                        foto.src = "images/sprites/regular/" + element.id + "-a.png";
-                        box.appendChild(foto);
-                    }
-                
-                    if (element.region.galar) {
-                        let foto = document.createElement('img');
-                        foto.className = "sprite";
-                        foto.src = "images/sprites/regular/" + element.id + "-a.png";
-                        box.appendChild(foto);
-                    }
-                }
-            }
         
+        box.textContent = "";
+        displayDex(data, gender, type,region,bothDex);
+    });
+}
 
-    );
-dex.appendChild(box);
-};
+function displayPokemon(element, type, extra) {
+    let foto = document.createElement('img');
+    foto.className = "sprite";
+    foto.src = "images/sprites/" + type + "/" + element.id + extra + ".png";
+    box.appendChild(foto);
+}
+
+// display pokemon
+function displayDex(data, gender, type,region,bothDex) {
+
+    data.forEach(element => {
+
+        if(bothDex){
+            displayPokemon(element, "regular", "");
+            displayPokemon(element, "shiny", "");
+            if (gender) {
+                if (element.genderForm) {
+                    displayPokemon(element, "regular", "-f");
+                    displayPokemon(element, "shiny", "-f");
+                }
+            }
+            if(region){
+            if (element.regionForm) {
+                if (element.region.alola) {
+                    displayPokemon(element, "regular", "-a");
+                    displayPokemon(element, "shiny", "-a");
+                }
+                if (element.region.galar) {
+                    displayPokemon(element, "regular", "-g");
+                    displayPokemon(element, "shiny", "-g");
+                }
+            }}
+        }
+        else{
+
+
+        displayPokemon(element, type, "");
+        if (gender) {
+            if (element.genderForm) {
+                displayPokemon(element, type, "-f");
+            }
+        }
+        if(region){
+        if (element.regionForm) {
+            if (element.region.alola) {
+                displayPokemon(element, type, "-a")
+            }
+            if (element.region.galar) {
+                displayPokemon(element, type, "-g")
+            }
+        }}}
+    });
+    dex.appendChild(box);
+}

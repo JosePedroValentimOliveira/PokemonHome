@@ -157,7 +157,72 @@
         "name": "Pikachu",
         "genderForm" : true,
         "regionForm":false
-        
+    },
+    {
+        "id": "026",
+        "name": "Raichu",
+        "genderForm" : true,
+        "regionForm":true,
+        "region":{
+            "alola": true,
+            "galar": false}
+    },
+    {
+        "id": "027",
+        "name": "Sandshrew",
+        "genderForm" : false,
+        "regionForm":true,
+        "region":{
+            "alola": true,
+            "galar": false}
+    },
+    {
+        "id": "028",
+        "name": "Sandslash",
+        "genderForm" : false,
+        "regionForm":true,
+        "region":{
+            "alola": true,
+            "galar": false}
+    },
+    {
+        "id": "029",
+        "name": "Nidoran ♀",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "030",
+        "name": "Nidorina",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "031",
+        "name": "Nidoqueen",
+        "genderForm" : false,
+        "regionForm":false
     }
+    ,
+    {
+        "id": "032",
+        "name": "Nidoran ♂",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "033",
+        "name": "Nidorino",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "034",
+        "name": "Nidoking",
+        "genderForm" : false,
+        "regionForm":false
+    }
+    
+
     
 ]
