@@ -221,6 +221,48 @@
         "name": "Nidoking",
         "genderForm" : false,
         "regionForm":false
+    },
+    {
+        "id": "035",
+        "name": "Clefairy",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "036",
+        "name": "Clefable",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "037",
+        "name": "Vulpix",
+        "genderForm" : false,
+        "regionForm":true,
+        "region":{
+            "alola": true,
+            "galar": false}
+    },
+    {
+        "id": "038",
+        "name": "Ninetales",
+        "genderForm" : false,
+        "regionForm":true,
+        "region":{
+            "alola": true,
+            "galar": false}
+    },
+    {
+        "id": "039",
+        "name": "Jigglypuff",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "040",
+        "name": "Wigglytuff",
+        "genderForm" : false,
+        "regionForm":false
     }
     
 

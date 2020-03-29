@@ -19,7 +19,8 @@
     
 }
 body{grid-template-columns: 'dex';}
-.name{size: 5px;}
+.label{font-size: 40px;}
+#regularCheck,#shinyCheck,#bothCheck,#genderCheck,#regionCheck{height: 40px;width: 40px;}
 
 
 
