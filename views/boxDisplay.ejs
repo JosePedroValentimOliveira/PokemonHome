@@ -8,20 +8,27 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <div id="checkbox">
     
+    <input type="radio" name="dex" id="regularCheck" onclick="checkDex()" checked >
     <label for="regularCheck" class="label">Regular Dex</label>
-    <input type="radio" name="dex" id="regularCheck" onclick="checkDex()" checked ><br>
+    
+    <input type="radio" name="dex" id="shinyCheck" onclick="checkDex()">
     <label for="shinyCheck"  class="label">Shiny Dex</label>
-    <input type="radio" name="dex" id="shinyCheck" onclick="checkDex()"><br>
+    
+    <input type="radio" name="dex" id="bothCheck" onclick="checkDex()">
     <label for="bothCheck"  class="label">Both Dex</label>
-    <input type="radio" name="dex" id="bothCheck" onclick="checkDex()"><br>
-
+    
+    <input type="checkbox" name="gender" id="genderCheck" onclick="checkDex()">
     <label for="genderCheck"  class="label">Gender differences</label>
-    <input type="checkbox" name="gender" id="genderCheck" onclick="checkDex()"><br>
+   
+    <input type="checkbox" name="region" id="regionCheck" onclick="checkDex()">
     <label for="regionCheck"  class="label">Region differences</label>
-    <input type="checkbox" name="region" id="regionCheck" onclick="checkDex()"><br>
-
+</div>
+<div id="dexAndInfo">
     <div id="dex"></div>
+    <div id ="info"></div>
+</div>
     
 </body>
 </html>

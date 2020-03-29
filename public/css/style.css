@@ -1,7 +1,7 @@
 .sprite {
     width: 5%;
 }
-
+#checkbox{grid-area: checkbox;}
 #dex {
     grid-area: dex;
     display: flex;
@@ -10,6 +10,9 @@
     
     
 }
+#info{grid-area: info;
+width: 0%;}
+#dexAndInfo{display: flex;}
 
 .box {
     border: white 1px solid;
@@ -18,9 +21,6 @@
     background-color: grey;
     
 }
-body{grid-template-columns: 'dex';}
+body{grid-template-columns: 'checkbox checkbox''dex info';}
 .label{font-size: 40px;}
 #regularCheck,#shinyCheck,#bothCheck,#genderCheck,#regionCheck{height: 40px;width: 40px;}
-
-
-
