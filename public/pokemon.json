@@ -330,8 +330,7 @@
             "alola": true,
             "galar": false
         }
-    }
-    ,
+    },
     {
         "id": "051",
         "name": "Dugtrio",
@@ -365,129 +364,129 @@
     {
         "id": "054",
         "name": "Psyduck",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "055",
         "name": "Golduck",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "056",
         "name": "Mankey",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "057",
         "name": "Primeape",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "058",
         "name": "Growlithe",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "059",
         "name": "Arcanine",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "060",
         "name": "Poliwag",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "061",
         "name": "Poliwhirl",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "062",
         "name": "Poliwrath",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "063",
         "name": "Abra",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "064",
         "name": "Kadabra",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "065",
         "name": "Alakazam",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "066",
         "name": "Machop",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "067",
         "name": "Machoke",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "068",
         "name": "Machamp",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "069",
         "name": "Bellsprout",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "070",
         "name": "Weepinbell",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "071",
         "name": "Victreebel",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "072",
         "name": "Tentacool",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "073",
         "name": "Tentacruel",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "074",
         "name": "Geodude",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": true,
             "galar": false
         }
@@ -495,9 +494,9 @@
     {
         "id": "075",
         "name": "Graveler",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": true,
             "galar": false
         }
@@ -505,9 +504,9 @@
     {
         "id": "076",
         "name": "Golem",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": true,
             "galar": false
         }
@@ -515,9 +514,9 @@
     {
         "id": "077",
         "name": "Ponyta",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": false,
             "galar": true
         }
@@ -525,9 +524,9 @@
     {
         "id": "078",
         "name": "Rapidash",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": false,
             "galar": true
         }
@@ -535,9 +534,9 @@
     {
         "id": "079",
         "name": "Slowpoke",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": false,
             "galar": true
         }
@@ -545,880 +544,885 @@
     {
         "id": "080",
         "name": "Slowbro",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "081",
         "name": "Magnemite",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "082",
         "name": "Magneton",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "083",
         "name": "Farfetch'd",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": false,
-            "galar": true}
+            "galar": true
+        }
     },
     {
         "id": "084",
         "name": "Doduo",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "085",
         "name": "Dodrio",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "086",
         "name": "Seel",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "087",
         "name": "Dewgong",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "088",
         "name": "Grimer",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": true,
-            "galar": false}
+            "galar": false
+        }
     },
     {
         "id": "089",
         "name": "Muk",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": true,
-            "galar": false}
+            "galar": false
+        }
     },
     {
         "id": "090",
         "name": "Shellder",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "091",
         "name": "Cloyster",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "092",
         "name": "Gastly",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "093",
         "name": "Haunter",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "094",
         "name": "Gengar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "095",
         "name": "Onix",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "096",
         "name": "Drowzee",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "097",
         "name": "Hypno",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "098",
         "name": "Krabby",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "099",
         "name": "Kingler",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "100",
         "name": "Voltorb",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "101",
         "name": "Electrode",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "102",
         "name": "Exeggcute",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "103",
         "name": "Exeggutor",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": true,
-            "galar": false}
+            "galar": false
+        }
     },
     {
         "id": "104",
         "name": "Cubone",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "105",
         "name": "Marowak",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": true,
-            "galar": false}
+            "galar": false
+        }
     },
     {
         "id": "106",
         "name": "Hitmonlee",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "107",
         "name": "Hitmonchan",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "108",
         "name": "Lickitung",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "109",
         "name": "Koffing",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "110",
         "name": "Weezing",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": false,
-            "galar": true}
+            "galar": true
+        }
     },
     {
         "id": "111",
         "name": "Rhyhorn",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "112",
         "name": "Rhydon",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "113",
         "name": "Chansey",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "114",
         "name": "Tangela",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "115",
         "name": "Kangaskhan",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "116",
         "name": "Horsea",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "117",
         "name": "Seadra",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "118",
         "name": "Goldeen",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "119",
         "name": "Seaking",
-        "genderForm" : true,
-        "regionForm":false
-    }
-    ,
+        "genderForm": true,
+        "regionForm": false
+    },
     {
         "id": "120",
         "name": "Staryu",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "121",
         "name": "Starmie ",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "122",
         "name": "Mr. Mime",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "123",
         "name": "Scyther",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "124",
         "name": "Jynx",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "125",
         "name": "Electabuzz",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "126",
         "name": "Magmar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "127",
         "name": "Pinsir",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "128",
         "name": "Tauros",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "129",
         "name": "Magikarp",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "130",
         "name": "Gyarados",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "131",
         "name": "Lapras",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "132",
         "name": "Ditto",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "133",
         "name": "Eevee",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "134",
         "name": "Vaporeon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "135",
         "name": "Jolteon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "136",
         "name": "Flareon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "137",
         "name": "Porygon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "138",
         "name": "Omanyte",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "139",
         "name": "Omastar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "140",
         "name": "Kabuto",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "141",
         "name": "Kabutops",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "142",
         "name": "Aerodactyl",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "143",
         "name": "Snorlax",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "144",
         "name": "Articuno",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "145",
         "name": "Zapdos",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "146",
         "name": "Moltres",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "147",
         "name": "Dratini",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "148",
         "name": "Dragonair",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "149",
         "name": "Dragonite",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "150",
         "name": "Mewtwo",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "151",
         "name": "Mew",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "152",
         "name": "Chikorita",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "153",
         "name": "Bayleef",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "154",
         "name": "Meganium",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "155",
         "name": "Cyndaquil",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "156",
         "name": "Quilava",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "157",
         "name": "Typhlosion",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "158",
         "name": "Totodile",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "159",
         "name": "Croconaw",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "160",
         "name": "Feraligatr",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "161",
         "name": "Sentret",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "162",
         "name": "Furret",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "163",
         "name": "Hoothoot",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "164",
         "name": "Noctowl",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "165",
         "name": "Ledyba",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "166",
         "name": "Ledian",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "167",
         "name": "Spinarak",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "168",
         "name": "Ariados",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "169",
         "name": "Crobat",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "170",
         "name": "Chinchou",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "171",
         "name": "Lanturn",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "172",
         "name": "Pichu",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "173",
         "name": "Cleffa",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "174",
         "name": "Igglybuff",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "175",
         "name": "Togepi",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "176",
         "name": "Togetic",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "177",
         "name": "Natu",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "178",
         "name": "Xatu",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "179",
         "name": "Mareep",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "180",
         "name": "Flaaffy",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "181",
         "name": "Ampharos ",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "182",
         "name": "Bellossom",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "183",
         "name": "Marill",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "184",
         "name": "Azumarill",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "185",
         "name": "Sudowoodo",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "186",
         "name": "Politoed",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "187",
         "name": "Hoppip",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "188",
         "name": "Skiploom",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "189",
         "name": "Jumpluff",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "190",
         "name": "Aipom",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "191",
         "name": "Sunkern",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "192",
         "name": "Sunflora",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "193",
         "name": "Yanma",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "194",
         "name": "Wooper",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "195",
         "name": "Quagsire",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "196",
         "name": "Espeon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "197",
         "name": "Umbreon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "198",
         "name": "Murkrow",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "199",
         "name": "Slowking",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "200",
         "name": "Misdreavus",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "201",
         "name": "Unown",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "202",
         "name": "Wobbuffet",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "203",
         "name": "Girafarig",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "204",
         "name": "Pineco",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "205",
         "name": "Forretress",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "206",
         "name": "Dunsparce",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "207",
         "name": "Gligar",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "208",
         "name": "Steelix",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "209",
         "name": "Snubbull",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "210",
         "name": "Granbull",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "211",
         "name": "Qwilfish",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "212",
         "name": "Scizor",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "213",
         "name": "Shuckle",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "214",
         "name": "Heracross",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "215",
         "name": "Sneasel",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "216",
         "name": "Teddiursa",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "217",
         "name": "Ursaring",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "218",
         "name": "Slugma",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "219",
         "name": "Magcargo",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "220",
         "name": "Swinub",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "221",
         "name": "Piloswine",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "222",
         "name": "Corsola",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
             "alola": false,
             "galar": true
         }
@@ -1426,1638 +1430,4014 @@
     {
         "id": "223",
         "name": "Remoraid",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "224",
         "name": "Octillery",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "225",
         "name": "Delibird",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "226",
         "name": "Mantine",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "227",
         "name": "Skarmory",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "228",
         "name": "Houndour",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "229",
         "name": "Houndoom",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "230",
         "name": "Kingdra",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "231",
         "name": "Phanpy",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "232",
         "name": "Donphan",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "233",
         "name": "Porygon2",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "234",
         "name": "Stantler",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "235",
         "name": "Smeargle",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "236",
         "name": "Tyrogue",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "237",
         "name": "Hitmontop",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "238",
         "name": "Smoochum",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "239",
         "name": "Elekid",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "240",
         "name": "Magby",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "241",
         "name": "Miltank",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "242",
         "name": "Blissey",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "243",
         "name": "Raikou",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "244",
         "name": "Entei",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "245",
         "name": "Suicune",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "246",
         "name": "Larvitar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "247",
         "name": "Pupitar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "248",
         "name": "Tyranitar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "249",
         "name": "Lugia",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "250",
         "name": "Ho-Oh",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "251",
         "name": "Celebi",
-        "genderForm" : false,
-        "regionForm":false
-    }, {
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
         "id": "252",
         "name": "Treecko",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "253",
         "name": "Grovyle",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "254",
         "name": "Sceptile",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "255",
         "name": "Torchic",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "256",
         "name": "Combusken",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "257",
         "name": "Blaziken",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "258",
         "name": "Mudkip",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "259",
         "name": "Marshtomp",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "260",
         "name": "Swampert",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "261",
         "name": "Poochyena",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "262",
         "name": "Mightyena",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "263",
         "name": "Zigzagoon",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
-            "alola":false,
-            "galar":true
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
+            "alola": false,
+            "galar": true
         }
-        
     },
     {
         "id": "264",
         "name": "Linoone",
-        "genderForm" : false,
-        "regionForm":true,
-        "region":{
-            "alola":false,
-            "galar":true
+        "genderForm": false,
+        "regionForm": true,
+        "region": {
+            "alola": false,
+            "galar": true
         }
-        
     },
     {
         "id": "265",
         "name": "Wurmple",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "266",
         "name": "Silcoon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "267",
         "name": "Beautifly",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "268",
         "name": "Cascoon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "269",
         "name": "Dustox",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "270",
         "name": "Lotad",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "271",
         "name": "Lombre",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "272",
         "name": "Ludicolo",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "273",
         "name": "Seedot",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "274",
         "name": "Nuzleaf",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "275",
         "name": "Shiftry",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "276",
         "name": "Taillow",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "277",
         "name": "Swellow",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "278",
         "name": "Wingull",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "279",
         "name": "Pelipper",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "280",
         "name": "Ralts",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "281",
         "name": "Kirlia",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "282",
         "name": "Gardevoir",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "283",
         "name": "Surskit",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "284",
         "name": "Masquerain",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "285",
         "name": "Shroomish",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "286",
         "name": "Breloom",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "287",
         "name": "Slakoth",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "288",
         "name": "Vigoroth",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "289",
         "name": "Slaking",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "290",
         "name": "Nincada",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "291",
         "name": "Ninjask",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "292",
         "name": "Shedinja",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "293",
         "name": "Whismur",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "294",
         "name": "Loudred",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "295",
         "name": "Exploud",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "296",
         "name": "Makuhita",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "297",
         "name": "Hariyama",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "298",
         "name": "Azurill",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "299",
         "name": "Nosepass",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "300",
         "name": "Skitty",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "301",
         "name": "Delcatty",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "302",
         "name": "Sableye",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "303",
         "name": "Mawile",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "304",
         "name": "Aron",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "305",
         "name": "Lairon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "306",
         "name": "Aggron",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "307",
         "name": "Meditite",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "308",
         "name": "Medicham",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "309",
         "name": "Elektrike",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "310",
         "name": "Manectric",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "311",
         "name": "Plusle",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "312",
         "name": "Minun",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "313",
         "name": "Volbeat",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "314",
         "name": "Illumise",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "315",
         "name": "Roselia",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "316",
         "name": "Gulpin",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "317",
         "name": "Swalot",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "318",
         "name": "Carvanha",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "319",
         "name": "Sharpedo",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "320",
         "name": "Wailmer",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "321",
         "name": "Wailord",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "322",
         "name": "Numel",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "323",
         "name": "Camerupt",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "324",
         "name": "Torkoal",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "325",
         "name": "Spoink",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "326",
         "name": "Grumpig",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "327",
         "name": "Spinda",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "328",
         "name": "Trapinch",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "329",
         "name": "Vibrava",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "230",
         "name": "Flygon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "331",
         "name": "Cacnea",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "332",
         "name": "Cacturne",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "333",
         "name": "Swablu",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "334",
         "name": "Altaria",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "335",
         "name": "Zangoose",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "336",
         "name": "Seviper",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "337",
         "name": "Lunatone",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "338",
         "name": "Solrock",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "339",
         "name": "Barboach",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "340",
         "name": "Whiscash",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "341",
         "name": "Corphish",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "342",
         "name": "Crawdaunt",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "343",
         "name": "Baltoy",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "344",
         "name": "Claydol",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "345",
         "name": "Lileep",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "346",
         "name": "Cradily",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "347",
         "name": "Anorith",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "348",
         "name": "Armaldo",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "349",
         "name": "Feebas",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "350",
         "name": "Milotic",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "351",
         "name": "Castform",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "352",
         "name": "Kecleon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "353",
         "name": "Shuppet",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "354",
         "name": "Banette",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "355",
         "name": "Duskull",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "356",
         "name": "Dusclops",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "357",
         "name": "Tropius",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "358",
         "name": "Chimeco",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "359",
         "name": "Absol",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "360",
         "name": "Wynaut",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "361",
         "name": "Snorunt",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "362",
         "name": "Glalie",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "363",
         "name": "Spheal",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "364",
         "name": "Sealeo",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "365",
         "name": "Walrein",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "366",
         "name": "Clamperl",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "367",
         "name": "Huntail",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "368",
         "name": "Gorebyss",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "369",
         "name": "Relicanth",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "370",
         "name": "Luvdisc",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "371",
         "name": "Bagon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "372",
         "name": "Shelgon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "373",
         "name": "Salamence",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "374",
         "name": "Beldum",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "375",
         "name": "Metang",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "376",
         "name": "Metagross",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "377",
         "name": "Regirock",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "378",
         "name": "Regice",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "379",
         "name": "Registeel",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "380",
         "name": "Latias",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "381",
         "name": "Latios",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "382",
         "name": "Kyogre",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "383",
         "name": "Groudon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "384",
         "name": "Rayquaza",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "385",
         "name": "Jirahci",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "386",
         "name": "Marshtomp",
-        "genderForm" : false,
-        "regionForm":false
-    }
-
-
-    ,
+        "genderForm": false,
+        "regionForm": false
+    },
     {
         "id": "387",
         "name": "Turtwig",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "388",
         "name": "Grotle",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "389",
         "name": "Torterra",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "390",
         "name": "Chimchar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "391",
         "name": "Monferno",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "392",
         "name": "Infernape",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "393",
         "name": "Piplup",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "394",
         "name": "Prinplup",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "395",
         "name": "Empoleon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "396",
         "name": "Starly",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "397",
         "name": "Staravia",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "398",
         "name": "Staraptor",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "399",
         "name": "Bidoof",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "400",
         "name": "Bibarel",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "401",
         "name": "Kricketot",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "402",
         "name": "Kricketune",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "403",
         "name": "Shinx",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "404",
         "name": "Luxio",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "405",
         "name": "Luxray",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "406",
         "name": "Budew",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "407",
         "name": "Roserade",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "408",
         "name": "Cranidos",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "409",
         "name": "Rampardos",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "410",
         "name": "Shieldon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "411",
         "name": "Bastiodon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "412",
         "name": "Burmy",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "413",
         "name": "Wormadam",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "414",
         "name": "Mothim",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "415",
         "name": "Combee",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "416",
         "name": "Vespiquen",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "417",
         "name": "Pachirisu",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "418",
         "name": "Buizel",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "419",
         "name": "Floatzel",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "420",
         "name": "Cherubi",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "421",
         "name": "Cherrim",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "422",
         "name": "Shellos",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "423",
         "name": "Gastrodon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "424",
         "name": "Ambipom",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "425",
         "name": "Drifloon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "426",
         "name": "Drifblim",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "427",
         "name": "Buneary",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "428",
         "name": "Lopunny",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "429",
         "name": "Mismagius",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "430",
         "name": "Honchkrow",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "431",
         "name": "Glameow",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "432",
         "name": "Purugly",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "433",
         "name": "Chingling",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "434",
         "name": "Stunky",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "435",
         "name": "Skuntank",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "436",
         "name": "Bronzor",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "437",
         "name": "Bronzong",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "438",
         "name": "Bonsly",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "439",
         "name": "Mime Jr.",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "440",
         "name": "Happiny",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "441",
         "name": "Chatot",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "442",
         "name": "Spiritomb",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "443",
         "name": "Gible",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "444",
         "name": "Gabite",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "445",
         "name": "Garchomp",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "446",
         "name": "Munchlax",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "447",
         "name": "Riolu",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "448",
         "name": "Lucario",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "449",
         "name": "Hippopotas",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "450",
         "name": "Hippowdon",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "451",
         "name": "Skorupi",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "452",
         "name": "Drapion",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "453",
         "name": "Croagunk",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "454",
         "name": "Toxicroak",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "455",
         "name": "Carnivine",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "456",
         "name": "Finneon",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "457",
         "name": "Lumineon",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "458",
         "name": "Mantyke",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "459",
         "name": "Snover",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "460",
         "name": "Abomasnow",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "461",
         "name": "Weavile",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "462",
         "name": "Magnezone",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "463",
         "name": "Lickilicky",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "464",
         "name": "Rhyperior",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "465",
         "name": "Tangrowth",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "466",
         "name": "Electivire",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "467",
         "name": "Magmortar",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "468",
         "name": "Togekiss",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "469",
         "name": "Yanmega",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "470",
         "name": "Leafeon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "471",
         "name": "Glaceon",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "472",
         "name": "Gliscor",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "473",
         "name": "Mamoswine",
-        "genderForm" : true,
-        "regionForm":false
+        "genderForm": true,
+        "regionForm": false
     },
     {
         "id": "474",
         "name": "Porygon-Z",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "475",
         "name": "Gallade",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "476",
         "name": "Probopass",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "477",
         "name": "Dusknoir",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "478",
         "name": "Froslass",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "479",
         "name": "Rotom",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "480",
         "name": "Uxie",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "481",
         "name": "Mesprit",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "482",
         "name": "Azelf",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "483",
         "name": "Dialga",
-        "genderForm" : false,
-        "regionForm":false
-    } ,
+        "genderForm": false,
+        "regionForm": false
+    },
     {
         "id": "484",
         "name": "Palkia",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "485",
         "name": "Heatran",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "486",
         "name": "Regigigas",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "487",
         "name": "Giratina",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "488",
         "name": "Cresselia",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "489",
         "name": "Phione",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "490",
         "name": "Manaphy",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "491",
         "name": "Darkrai",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "492",
         "name": "Shaymin",
-        "genderForm" : false,
-        "regionForm":false
+        "genderForm": false,
+        "regionForm": false
     },
     {
         "id": "493",
         "name": "Arceus",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "494",
+        "name": "Victini",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "495",
+        "name": "Snivy",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "496",
+        "name": "Servine",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "497",
+        "name": "Serperior",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "498",
+        "name": "Tepig",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "499",
+        "name": "Pignite",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "500",
+        "name": "Emboar",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "501",
+        "name": "Oshawott",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "502",
+        "name": "Dewott",
+        "genderForm": false,
+        "regionForm": false
+    },
+    {
+        "id": "503",
+        "name": "Samurott",
+        "genderForm": false,
+        "regionForm": false
+    },{
+        "id": 504,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 505,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 506,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 507,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 508,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 509,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 510,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 511,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 512,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 513,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 514,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 515,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 516,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 517,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 518,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 519,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 520,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 521,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 522,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 523,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 524,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 525,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 526,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 527,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 528,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 529,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 530,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 531,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 532,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 533,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 534,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 535,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 536,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 537,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 538,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 539,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 540,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 541,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 542,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 543,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 544,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 545,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 546,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 547,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 548,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 549,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 550,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 551,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 552,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 553,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 554,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 555,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 556,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 557,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 558,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 559,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 560,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 561,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 562,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 563,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 564,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 565,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 566,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 567,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 568,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 569,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 570,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 571,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 572,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 573,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 574,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 575,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 576,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 577,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 578,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 579,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 580,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 581,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 582,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 583,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 584,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 585,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 586,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 587,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 588,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 589,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 590,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 591,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 592,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 593,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 594,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 595,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 596,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 597,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 598,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 599,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 600,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 601,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 602,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 603,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 604,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 605,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 606,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 607,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 608,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 609,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 610,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 611,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 612,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 613,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 614,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 615,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 616,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 617,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 618,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 619,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 620,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 621,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 622,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 623,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 624,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 625,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 626,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 627,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 628,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 629,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 630,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 631,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 632,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 633,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 634,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 635,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 636,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 637,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 638,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 639,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 640,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 641,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 642,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 643,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 644,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 645,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 646,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 647,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 648,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 649,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 650,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 651,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 652,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 653,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 654,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 655,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 656,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 657,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 658,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 659,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 660,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 661,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 662,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 663,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 664,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 665,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 666,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 667,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 668,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 669,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 670,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 671,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 672,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 673,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 674,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 675,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 676,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 677,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 678,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 679,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 680,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 681,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 682,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 683,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 684,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 685,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 686,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 687,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 688,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 689,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 690,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 691,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 692,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 693,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 694,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 695,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 696,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 697,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 698,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 699,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 700,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 701,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 702,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 703,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 704,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 705,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 706,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 707,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 708,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 709,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 710,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 711,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 712,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 713,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 714,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 715,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 716,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 717,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 718,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 719,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 720,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 721,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 722,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 723,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 724,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 725,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 726,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 727,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 728,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 729,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 730,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 731,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 732,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 733,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 734,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 735,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 736,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 737,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 738,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 739,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 740,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 741,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 742,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 743,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 744,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 745,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 746,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 747,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 748,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 749,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 750,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 751,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 752,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 753,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 754,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 755,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 756,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 757,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 758,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 759,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 760,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 761,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 762,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 763,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 764,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 765,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 766,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 767,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 768,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 769,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 770,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 771,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 772,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 773,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 774,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 775,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 776,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 777,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 778,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 779,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 780,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 781,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 782,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 783,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 784,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 785,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 786,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 787,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 788,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 789,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 790,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 791,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 792,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 793,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 794,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 795,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 796,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 797,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 798,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 799,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 800,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 801,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 802,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 803,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 804,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 805,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 806,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 807,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 808,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },
+      {
+        "id": 809,
+        "name": "",
+        "genderForm": false,
+        "regionForm": false
+      },{
+        "id": "810",
+        "name": "Grookey",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "811",
+        "name": "Twackey",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "812",
+        "name": "Rillaboom",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "813",
+        "name": "Scorbunny",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "814",
+        "name": "Raboot",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "815",
+        "name": "Cinderace",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "816",
+        "name": "Sobble",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "817",
+        "name": "Drizzile",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "818",
+        "name": "Inteleon",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "819",
+        "name": "Skwovet",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "820",
+        "name": "Greedent",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "821",
+        "name": "Rookidee",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "822",
+        "name": "Corvisquire",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "823",
+        "name": "Corviknight",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "824",
+        "name": "Blipbug",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "825",
+        "name": "Dottler",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "826",
+        "name": "Orbeetle",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "827",
+        "name": "Nickit",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "828",
+        "name": "Thievul",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "829",
+        "name": "Gossifleur",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "830",
+        "name": "Eldegoss",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "831",
+        "name": "Wooloo",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "832",
+        "name": "Dubwool",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "833",
+        "name": "Chewtle",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "834",
+        "name": "Drednaw",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "835",
+        "name": "Yamper",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "836",
+        "name": "Boltund",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "837",
+        "name": "Rolycoly",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "838",
+        "name": "Carkol",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "839",
+        "name": "Coalossal",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "840",
+        "name": "Applin",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "841",
+        "name": "Flapple",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "842",
+        "name": "Appletun",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "843",
+        "name": "Silicobra",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "844",
+        "name": "Sandaconda",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "845",
+        "name": "Cramorant",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "846",
+        "name": "Arrokuda",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "847",
+        "name": "Barraskewda",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "848",
+        "name": "Toxel",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "849",
+        "name": "Toxtricity",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "850",
+        "name": "Sizzlipede",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "851",
+        "name": "Centiskorch",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "852",
+        "name": "Clobbopus",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "853",
+        "name": "Grapploct",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "854",
+        "name": "Sinistea",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "855",
+        "name": "Polteageist",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "856",
+        "name": "Hatenna",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "857",
+        "name": "Hattrem",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "858",
+        "name": "Hatterene",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "859",
+        "name": "Impidimp",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "860",
+        "name": "Morgrem",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "861",
+        "name": "Grimmsnarl",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "862",
+        "name": "Obstagoon",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "863",
+        "name": "Perrserker",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "864",
+        "name": "Cursola",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "865",
+        "name": "Sirfetch'd",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "866",
+        "name": "Mr. Rime",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "867",
+        "name": "Runerigus",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "868",
+        "name": "Milcery",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "869",
+        "name": "Alcremie",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "870",
+        "name": "Falinks",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "871",
+        "name": "Pincurchin",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "872",
+        "name": "Snom",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "873",
+        "name": "Frosmoth",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "874",
+        "name": "Stonjourner",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "875",
+        "name": "Eiscue",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "876",
+        "name": "Indeedee",
+        "genderForm" : true,
+        "regionForm":false
+    },
+    {
+        "id": "877",
+        "name": "Morpeko",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "878",
+        "name": "Cufant",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "879",
+        "name": "Copperajah",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "880",
+        "name": "Dracozolt",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "881",
+        "name": "Arctozolt",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "882",
+        "name": "Dracovish",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "883",
+        "name": "Arctovish",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "884",
+        "name": "Duraludon",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "885",
+        "name": "Dreepy",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "886",
+        "name": "Drakloak",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "887",
+        "name": "Dragapult",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "888",
+        "name": "Zacian",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "889",
+        "name": "Zamazenta",
+        "genderForm" : false,
+        "regionForm":false
+    },
+    {
+        "id": "890",
+        "name": "Eternatus",
         "genderForm" : false,
         "regionForm":false
     }
