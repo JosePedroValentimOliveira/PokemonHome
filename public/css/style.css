@@ -1,17 +1,24 @@
 .sprite {
     width: 5%;
 }
-#checkbox{grid-area: checkbox;}
+#checkbox{grid-area: checkbox;
+    position:fixed;
+    top:0;
+background-color: white;}
 #dex {
     grid-area: dex;
     display: flex;
     justify-content: center;
     width:  100%;
+    margin-top: 50px;
     
     
 }
 #info{grid-area: info;
-width: 0%;}
+width: 0%;
+position:fixed;
+    top:0;
+right: 0;}
 #dexAndInfo{display: flex;}
 
 .box {
