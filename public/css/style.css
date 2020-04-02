@@ -1,33 +1,44 @@
 .sprite {
     width: 5%;
 }
-#checkbox{grid-area: checkbox;
-    position:fixed;
-    top:0;
-background-color: white;}
+#checkbox {
+    width: 100%;
+    grid-area: checkbox;
+    position: fixed;
+    top: 0;
+    background-color: white;
+}
 #dex {
     grid-area: dex;
     display: flex;
-    justify-content: center;
-    width:  100%;
-    margin-top: 2%;
-    
-    
+    width: 100%;
+    margin-top: 3%;
 }
-#info{grid-area: info;
-width: 0%;
-position:fixed;
-    top:0;
-right: 0;}
-#dexAndInfo{display: flex;}
-
+#info {
+    grid-area: info;
+    width: 0%;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+#dexAndInfo {
+    display: flex;
+}
 .box {
     border: white 1px solid;
-   
-    display: inline-block;
     background-color: grey;
-    
 }
-body{grid-template-columns: 'checkbox checkbox''dex info';}
-.label{font-size: 40px;}
-#regularCheck,#shinyCheck,#bothCheck,#genderCheck,#regionCheck{height: 40px;width: 40px;}
+body {
+    grid-template-columns: 'checkbox checkbox''dex info';
+}
+.label {
+    font-size: 40px;
+}
+#regularCheck,
+#shinyCheck,
+#bothCheck,
+#genderCheck,
+#regionCheck {
+    height: 40px;
+    width: 40px;
+}

@@ -34,18 +34,29 @@ function displayPokemon(element, type, extra) {
     let foto = document.createElement('img');
     foto.className = "sprite";
     foto.src = "images/sprites/" + type + "/" + element.id + extra + ".png";
+
     foto.addEventListener('click', function () {
-        
+          
         let info = document.getElementById('info');
         let dex = document.getElementById('dex');
         let name = document.createElement('p');
         let btn = document.createElement('button');
         let fotoInfo = document.createElement('img');
+        let all = document.getElementsByClassName('sprite');
+for (let i = 0; i < all.length; i++) {
+  all[i].style.width = '6%';
+}
+
+        fotoInfo.style.width ="80%";
+        
         btn.textContent = 'close';
         btn.addEventListener('click',function() {
             info.textContent ="";
             info.style.width = "0%";
             dex.style.width = "100%";
+            for (let i = 0; i < all.length; i++) {
+                all[i].style.width = '5%';
+              }
         });
         info.textContent = "";
         fotoInfo.src = foto.src;
