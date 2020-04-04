@@ -2217,7 +2217,10 @@
             "Speed": 90
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": true,
+        "region":{
+        "alola": false,
+        "galar" : true}
     },
     {
         "id": "123",
