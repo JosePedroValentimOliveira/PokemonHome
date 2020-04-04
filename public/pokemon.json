@@ -2963,7 +2963,7 @@
             "SpDefense": 80,
             "Speed": 55
         },
-        "genderForm": false,
+        "genderForm": true,
         "regionForm": false
     },
     {
@@ -2981,7 +2981,7 @@
             "SpDefense": 110,
             "Speed": 85
         },
-        "genderForm": false,
+        "genderForm": true,
         "regionForm": false
     },
     {
@@ -4543,7 +4543,7 @@
             "SpDefense": 50,
             "Speed": 45
         },
-        "genderForm": false,
+        "genderForm": true,
         "regionForm": false
     },
     {
@@ -4561,7 +4561,7 @@
             "SpDefense": 60,
             "Speed": 55
         },
-        "genderForm": false,
+        "genderForm": true,
         "regionForm": false
     },
     {
@@ -4579,7 +4579,7 @@
             "SpDefense": 70,
             "Speed": 80
         },
-        "genderForm": false,
+        "genderForm": true,
         "regionForm": false
     },
     {
@@ -11791,7 +11791,7 @@
             "SpDefense": 66,
             "Speed": 106
         },
-        "genderForm": false,
+        "genderForm": true,
         "regionForm": false
     },
     {

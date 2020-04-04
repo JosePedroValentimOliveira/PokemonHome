@@ -1,0 +1,58 @@
+#checkbox {
+
+    position: fixed;
+    top: 0;
+    margin: 0 2%;
+    background-color: white;
+}
+
+#tiles {
+
+    align-content: center;
+    width: 100%;
+    margin: 4% 2% 0% 2%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    width: 7.5%;
+    border: 2px black solid;
+    text-align: center;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.tileFoto {
+    width: 100%;
+    text-align: right;
+
+}
+
+.id {
+    text-align: center;
+
+    background-color: lightgray;
+}
+
+p {
+    margin: 3px;
+    font-weight: 600;
+    font-size: 80%;
+}
+
+.infoBox {
+    width: 100%;
+    text-align: center;
+    background-color: lightgray;
+    border-top: 2px black solid;
+}
+
+.genName {
+    position: fixed;
+    font-size: 200%;
+    top:20px;
+    left: 40px;
+    background-color: white;
+}

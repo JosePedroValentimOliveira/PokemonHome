@@ -10,12 +10,14 @@ app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/public'));
 
 
-
-
 app.get('/', (req, res) => {
   res.render('home', {
     script: "/js/pokedex.js"
   });
+});
+
+app.get('/gen', (req, res) => {
+  res.render('gen');
 });
 
 app.get('/box', (req, res) => {
