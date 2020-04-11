@@ -1,6 +1,7 @@
 const express = require('express');
 const ejs = require('ejs');
 const fs = require('fs');
+const pokemon = require('./public/json/pokemon.json')
 
 
 
@@ -16,7 +17,16 @@ app.get('/', (req, res) => {
   });
 });
 
-app.get('/gen', (req, res) => {
+pokemon.forEach(element => {
+  app.get('/pokedex/'+element.name, (req, res) => {
+    res.render('pokemon', {pokemon : element
+    });});
+});
+
+
+
+
+app.get('/pokedex', (req, res) => {
   res.render('gen');
 });
 

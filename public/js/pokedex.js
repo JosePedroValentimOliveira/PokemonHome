@@ -7,7 +7,7 @@ checkDex();
 
 // checkboxes
 function checkDex() {
-    fetch("./pokemon.json").then(function (resp) {
+    fetch("./json/pokemon.json").then(function (resp) {
         return resp.json();
     }).then(function (data) {
         let regularDex = document.getElementById('regularCheck').checked;

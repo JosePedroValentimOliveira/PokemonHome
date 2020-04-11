@@ -17,7 +17,7 @@ function checkGen() {
     let gen7 = document.getElementById("gen7").checked;
     let gen8 = document.getElementById("gen8").checked;
     tiles.textContent = "";
-    fetch("./pokemon.json").then(function (resp) {
+    fetch("./json/pokemon.json").then(function (resp) {
         return resp.json();
     }).then(function (data) {
             if (gen1) {
@@ -63,6 +63,7 @@ function checkGen() {
             sprite.src = "images/sprites/regular/" + pokemon.id + ".png";
             
             
+            
             let infoBox = document.createElement('div');
             infoBox.className = 'infoBox';
             let name = document.createElement('p');
@@ -92,7 +93,7 @@ function checkGen() {
                 sprite.src = "images/sprites/regular/" + pokemon.id + ".png";
             };
 
-            -
+            
             typing.appendChild(type1);
             typing.appendChild(type2);
             infoBox.appendChild(nr);
