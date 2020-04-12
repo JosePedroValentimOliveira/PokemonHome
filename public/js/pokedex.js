@@ -5,6 +5,30 @@ let box = document.createElement('div');
 box.className = "box";
 checkDex();
 
+function createCookie(name, value, days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        var expires = "; expires=" + date.toGMTString();
+    } else var expires = "";
+    document.cookie = name + "=" + value + expires + "; path=/pokedex";
+}
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for (var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+    }
+    return null;
+}
+
+function eraseCookie(name) {
+    createCookie(name, "", -1);
+}
+
 // checkboxes
 function checkDex() {
     fetch("./json/pokemon.json").then(function (resp) {
@@ -36,44 +60,33 @@ function displayPokemon(element, type, extra) {
     foto.src = "images/sprites/" + type + "/" + element.id + extra + ".png";
 
     foto.addEventListener('click', function () {
-          
-        let info = document.getElementById('info');
-        let dex = document.getElementById('dex');
-        let name = document.createElement('p');
-        let btn = document.createElement('button');
-        let fotoInfo = document.createElement('img');
-        let all = document.getElementsByClassName('sprite');
-for (let i = 0; i < all.length; i++) {
-  all[i].style.width = '6%';
-}
 
-        fotoInfo.style.width ="80%";
+        if (readCookie(element.id+""+extra) === null) {
+            createCookie(element.id+""+extra, true);
+            console.log(readCookie(element.id+""+extra))
+            foto.style.backgroundColor = "green";
+            foto.style.filter = "grayscale(0%)"
+        } else if (readCookie(element.id+""+extra) == "true") {
+            createCookie(element.id+""+extra, false);
+            foto.style.backgroundColor = "lightgray";
+            foto.style.filter = "grayscale(100%)"
+        } else if (readCookie(element.id+""+extra) == "false") {
+            createCookie(element.id+""+extra, true);
+            foto.style.backgroundColor = "green";
+            foto.style.filter = "grayscale(0%)"
+        }
+
         
-        btn.textContent = 'close';
-        btn.addEventListener('click',function() {
-            info.textContent ="";
-            info.style.width = "0%";
-            dex.style.width = "100%";
-            for (let i = 0; i < all.length; i++) {
-                all[i].style.width = '5%';
-              }
-        });
-        info.textContent = "";
-        fotoInfo.src = foto.src;
-        name.textContent = element.name;
-        name.style.fontSize = "40px";
-        info.style.width = "20%";
-        dex.style.width = "80%";
-        
-
-
-        info.appendChild(name);
-        info.appendChild(fotoInfo);
-        info.appendChild(btn);
-    });
-
-
-    box.appendChild(foto);
+    })
+    if(readCookie(element.id+""+extra) == "true"){
+        foto.style.backgroundColor = "green";
+            foto.style.filter = "grayscale(0%)"
+    }
+    else{
+        foto.style.backgroundColor = "lightgray";
+            foto.style.filter = "grayscale(100%)"
+    }
+box.appendChild(foto);
 }
 
 // display pokemon

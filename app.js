@@ -17,14 +17,12 @@ app.get('/', (req, res) => {
   });
 });
 
+
 pokemon.forEach(element => {
   app.get('/pokedex/'+element.name, (req, res) => {
     res.render('pokemon', {pokemon : element
     });});
 });
-
-
-
 
 app.get('/pokedex', (req, res) => {
   res.render('gen');

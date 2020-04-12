@@ -3599,7 +3599,9 @@
             "Speed": 48
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 27
     },
     {
         "id": "202",
@@ -6817,7 +6819,7 @@
     },
     {
         "id": "385",
-        "name": "Jirahci",
+        "name": "Jirachi",
         "type": [
             "Steel",
             "Psychic"
@@ -6835,7 +6837,7 @@
     },
     {
         "id": "386",
-        "name": "Marshtomp",
+        "name": "Deoxys",
         "type": [
             "Psychic"
         ],
@@ -6848,7 +6850,10 @@
             "Speed": 150
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 3
+        
     },
     {
         "id": "387",
@@ -7302,7 +7307,9 @@
             "Speed": 36
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 2
     },
     {
         "id": "413",
@@ -7320,7 +7327,9 @@
             "Speed": 36
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 2
     },
     {
         "id": "414",
@@ -7476,7 +7485,9 @@
             "Speed": 34
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "423",
@@ -7494,7 +7505,9 @@
             "Speed": 39
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "424",
@@ -8478,7 +8491,9 @@
             "Speed": 91
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 5
     },
     {
         "id": "480",
@@ -8618,7 +8633,9 @@
             "Speed": 90
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "488",
@@ -9708,7 +9725,9 @@
             "Speed": 98
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "551",
@@ -10330,7 +10349,10 @@
             "Speed": 75
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 3
+
     },
     {
         "id": "586",
@@ -10348,7 +10370,9 @@
             "Speed": 95
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 3
     },
     {
         "id": "587",
@@ -11318,7 +11342,9 @@
             "Speed": 111
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "642",
@@ -11336,7 +11362,9 @@
             "Speed": 111
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "643",
@@ -11390,7 +11418,9 @@
             "Speed": 101
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "646",
@@ -11426,7 +11456,9 @@
             "Speed": 108
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "648",
@@ -11759,7 +11791,9 @@
             "Speed": 89
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 19
     },
     {
         "id": "667",
@@ -11812,7 +11846,9 @@
             "Speed": 42
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 4
     },
     {
         "id": "670",
@@ -11829,7 +11865,9 @@
             "Speed": 52
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 4
     },
     {
         "id": "671",
@@ -11846,7 +11884,9 @@
             "Speed": 75
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 4
     },
     {
         "id": "672",
@@ -12673,7 +12713,9 @@
             "Speed": 95
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 1
     },
     {
         "id": "719",
@@ -13079,7 +13121,9 @@
             "Speed": 93
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 3
     },
     {
         "id": "742",
@@ -13149,7 +13193,9 @@
             "Speed": 112
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 2
     },
     {
         "id": "746",
@@ -13658,7 +13704,9 @@
             "Speed": 60
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 6
     },
     {
         "id": "775",
@@ -15297,7 +15345,9 @@
             "Speed": 64
         },
         "genderForm": false,
-        "regionForm": false
+        "regionForm": false,
+        "alternateForm": true,
+        "forms": 62
     },
     {
         "id": "870",
