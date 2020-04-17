@@ -101,15 +101,15 @@ function displayTiles(start, end, data, tileNr) {
 
                 sprite.addEventListener('click', function () {
                     if (readCookie(pokemon.id + gender) == null) {
-                        createCookie(pokemon.id + gender, true);
+                        createCookie(pokemon.id + gender, true,30);
                         tile.style.backgroundColor = "green";
                         sprite.style.filter = "grayscale(0%)"
                     } else if (readCookie(pokemon.id + gender) == "true") {
-                        createCookie(pokemon.id + gender, false);
+                        createCookie(pokemon.id + gender, false,30);
                         tile.style.backgroundColor = "lightgray";
                         sprite.style.filter = "grayscale(100%)"
                     } else if (readCookie(pokemon.id + gender) == "false") {
-                        createCookie(pokemon.id + gender, true);
+                        createCookie(pokemon.id + gender, true,30);
                         tile.style.backgroundColor = "green";
                         sprite.style.filter = "grayscale(0%)"
                     }
