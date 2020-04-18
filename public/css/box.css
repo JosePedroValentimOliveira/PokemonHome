@@ -1,0 +1,18 @@
+.sprite {
+    width: 16%;
+}
+
+#dex {
+    grid-area: dex;
+    display: block;
+
+}
+
+.box {
+    border: white 1px solid;
+    width: 30%;
+    display: inline-block;
+    background-color: grey;
+
+}
+body{grid-template-columns: 'dex'; align-content: center;}

@@ -29,8 +29,8 @@ app.get('/pokedex', (req, res) => {
 });
 
 app.get('/box', (req, res) => {
-  res.render('boxDisplay', {
-    script: "/js/pokedex.js"
+  res.render('box', {
+    script: "/js/box.js"
   });
 });
 
