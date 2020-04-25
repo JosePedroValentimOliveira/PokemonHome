@@ -13,6 +13,7 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "node-fetch": "^2.6.0",
-    "nodejs": "0.0.0"
+    "nodejs": "0.0.0",
+    "requirejs": "^2.3.6"
   }
 }
